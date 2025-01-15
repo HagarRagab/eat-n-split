@@ -8,7 +8,7 @@
 -   [Technical Highlights](#technical-highlights)
 -   [Conclusion](#conclusion)
 
-**Live demo** [click here](https://eat-n-split-react-app.netlify.app/)
+**Live demo** [click here](https://eat-n-split-bill-app.netlify.app/)
 
 ![alt text](src/assets/overview.jpg)
 
